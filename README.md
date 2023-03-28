@@ -19,11 +19,12 @@ The dataset suffers through a rare-case where the status of defaulted loans is s
 |           0 |     75036 |  
 |           1 |      2500 |  
 
-0 - healthy loan
+0 - healthy loan || 
 1 - defaulted loan 
 
 Based on PCA and visualization of the data, the pattern suggest that a linear classification method (logistic regression) should be applied - followed by resampling. 
 
+![image](https://user-images.githubusercontent.com/89043234/227813459-7d67a608-4258-4521-b8b4-f6655ec873ae.png)
 
 ## Results
 
