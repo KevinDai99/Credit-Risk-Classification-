@@ -24,7 +24,7 @@ The dataset suffers through a rare-case where the status of defaulted loans is s
 
 Based on PCA and visualization of the data, the pattern suggest that a linear classification method (logistic regression) should be applied - followed by resampling. 
 
-![image](https://user-images.githubusercontent.com/89043234/227813459-7d67a608-4258-4521-b8b4-f6655ec873ae.png)
+![image](https://user-images.githubusercontent.com/89043234/228358870-1075fd8c-2f9c-43e3-8cc8-c8e1749033e9.png)
 
 ## Results
 
