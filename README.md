@@ -26,8 +26,6 @@ Based on PCA and visualization of the data, the pattern suggest that a linear cl
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 * Machine Learning Model 1: Logistic Regression (Before Resampling)
 
 | precision | recall | f1-score |
