@@ -3,8 +3,6 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 The purpose of this project is to develop a machine learning algorithim to predict whether a loan would be good, or bad (i.e. possible default in the future)
 
 To do so, the following features would threaded through a logistic regression model. 
